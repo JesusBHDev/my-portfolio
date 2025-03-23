@@ -3,7 +3,7 @@ import { BentoGrid, BentoGridItem } from './ui/BentoGrid'
 
 function Grid() {
   return (
-    <section id="about">
+    <section id="presentacion">
         {/*en este lugar es donde colocan los textos de los cuadros  */}
         <BentoGrid>
             {gridItems.map

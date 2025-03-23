@@ -55,7 +55,7 @@ export const BentoGridItem = ({
   spareImg?: string;
 }) => {
   const leftLists = ["ReactJS", "Express", "Typescript"];
-  const rightLists = ["VueJS", "NuxtJS", "GraphQL"];
+  const rightLists = ["NextJS", "MongoDB", "JavaScript"];
 
   const [copied, setCopied] = useState(false);
 
@@ -185,7 +185,7 @@ export const BentoGridItem = ({
               </div>
 
               <MagicButton
-                title={copied ? "Email is Copied!" : "Copy my email address"}
+                title={copied ? "Email copiado!" : "Copia mi correo de gmail"}
                 icon={<IoCopyOutline />}
                 position="left"
                 handleClick={handleCopy}

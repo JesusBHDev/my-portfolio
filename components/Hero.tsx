@@ -31,20 +31,20 @@ const Hero = () => {
             <div className="flex justify-center relative my-20 z-10">
                 <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
                     <p className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80">
-                        Dynamic Web Magic with Next.js
+                        Mexicano 🌮
                     </p>
                     {/* aqui se coloca el texto que ira apareciendo en la pantalla caambiara de color con la funcion renderWords */}
                     <TextGenerateEffect
                         className='text-center text-[40px] md:text-5xl lg:text-6xl'
-                        words='Transforming concepts into seamless user experiences' />
+                        words='Hola Bienvenido Me llamo Jesus Ivan soy Ing en programacion ❤️🧑‍💻 ' />
 
                     <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl '>
-                        Hi, I&apos:m jesus developer based in croatia
+                    DevShadow
                     </p>
                     <a href="#about">
                         {/* posicion del icono del boton*/}
                         <MagicButton
-                            title="show mi work"
+                            title="¿Que es lo que hago?"
                             icon={<FaLocationArrow />}
                             position='left'
 
