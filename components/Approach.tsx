@@ -8,7 +8,7 @@ const Approach = () => {
   return (
     <section className="w-full py-20" id="about">
       <h1 className="heading">
-        Que<span className="text-purple">hago</span>
+        Sopo<span className="text-purple"></span>
       </h1>
       {/* remove bg-white dark:bg-black */}
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center w-full gap-4">

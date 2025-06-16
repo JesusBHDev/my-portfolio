@@ -109,24 +109,30 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Desarrolle aplicaciones IOT en Arduino con el lenguaje C++ y programando LA ESP32 Wi-Fi & Bluetooth",
-    name: "Internet de las cosas",
-    title: "IOT",
+      "He trabajado con IoT utilizando el IDE de Arduino para la placa de desarrollo ESP32. Implementé sensores como el ultrasonido, temperatura,  así como actuadores como motores, LEDs y pantallas LCD. Tengo conocimientos básicos en el desarrollo y control de estos dispositivos. y envio de datos en wifi aun tengo mis herramientas tal vez arme algo ¿¿¿¿???",
+    name: "IoT y Arduino",
+    title: "Desarrollo de Hardware",
   },
   {
     quote:
-      "Desarrolle aplicaciones con interfaz en Java, vi los conceptos basicos de Pilas, colas, arreglos, Matrices, Arboles, Nodos 🫠",
-    name: "Java",
-    title: "Estructura de datos",
+      "Tengo experiencia en el desarrollo de aplicaciones utilizando .NET Framework, incluyendo aplicaciones Windows Forms (PWF) y servicios básicos de Windows.",
+    name: "Desarrollo con .NET",
+    title: ".NET Framework",
   },
   {
     quote:
-      "He trabajado con Laravel para hacer un catalogo de productos",
-    name: "Laravel",
-    title: "Framework",
+      "He desarrollado aplicaciones con interfaz gráfica en Java y estudiado estructuras de datos fundamentales como pilas, colas, arreglos, matrices, árboles y nodos. También tengo conocimientos básicos",
+    name: "Java y Estructuras de Datos",
+    title: "Desarrollo en Java",
   },
- 
+  {
+    quote:
+      "Poseo conocimientos en comandos básicos de Linux en distribuciones como Debian y Ubuntu. he utilizando un poquito de Cisco Packet Tracer, aunque actualmente no lo utilizo con frecuencia.",
+    name: "Linux y Redes",
+    title: "Administración de Sistemas",
+  },
 ];
+
 
 export const companies = [
   {

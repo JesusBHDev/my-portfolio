@@ -67,7 +67,7 @@ export const BentoGridItem = ({
       preserveAspectRatio: "xMidYMid slice",
     },
   };
-
+{/**este es mi correo e se copia 😯 */}
   const handleCopy = () => {
     const text = "Jesus.bta.01gmil.com";
     navigator.clipboard.writeText(text);
