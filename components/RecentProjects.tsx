@@ -6,6 +6,7 @@ import { projects } from "@/data";
 import { PinContainer } from "./ui/3d-pin";
 import Link from "next/link";
 
+//las tarjetas de los proyectos con enlace a github
 const RecentProjects = () => {
   return (
     <div className="py-20" id="projects">

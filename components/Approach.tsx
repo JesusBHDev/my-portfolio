@@ -3,7 +3,7 @@ import React from "react";
 import { AnimatePresence, motion } from "framer-motion";
 
 import { CanvasRevealEffect } from "./ui/CanvasRevealEffect";
-
+//este es donde estan los pasos son 3
 const Approach = () => {
   return (
     <section className="w-full py-20" id="about">
